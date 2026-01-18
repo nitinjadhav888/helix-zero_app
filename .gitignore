@@ -1,1 +1,8 @@
-.vercel
+# Create .gitignore with proper content
+echo "node_modules
+dist
+.DS_Store
+*.local
+.env
+.env.*
+!.env.example" > .gitignore
