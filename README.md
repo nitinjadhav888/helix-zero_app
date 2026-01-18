@@ -140,7 +140,7 @@ helix-zero/
 
 ### Deploy to Vercel (Recommended)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOUR_USERNAME/helix-zero)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/nitinjadhav888/helix-zero_app)
 
 ### Deploy to Netlify
 
@@ -189,9 +189,9 @@ Helix-Zero Laboratories
 
 ## 📞 Contact
 
-- **Email:** [contact@helix-zero.com]
+- **Email:** [helixzeroai@gmail.com]
 - **Website:** [https://helix-zero.vercel.app]
-- **GitHub:** [https://github.com/YOUR_USERNAME/helix-zero]
+- **GitHub:** [https://github.com/nitinjadhav888/helix-zero_app]
 
 ---
 
